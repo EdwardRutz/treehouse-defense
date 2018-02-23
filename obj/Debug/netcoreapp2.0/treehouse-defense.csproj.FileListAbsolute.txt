@@ -1,0 +1,11 @@
+C:\Users\Bravo\Source\Repos\treehouse-defense\obj\Debug\netcoreapp2.0\treehouse-defense.csprojResolveAssemblyReference.cache
+C:\Users\Bravo\Source\Repos\treehouse-defense\obj\Debug\netcoreapp2.0\treehouse-defense.csproj.CoreCompileInputs.cache
+C:\Users\Bravo\Source\Repos\treehouse-defense\obj\Debug\netcoreapp2.0\treehouse-defense.AssemblyInfoInputs.cache
+C:\Users\Bravo\Source\Repos\treehouse-defense\obj\Debug\netcoreapp2.0\treehouse-defense.AssemblyInfo.cs
+C:\Users\Bravo\Source\Repos\treehouse-defense\bin\Debug\netcoreapp2.0\treehouse-defense.deps.json
+C:\Users\Bravo\Source\Repos\treehouse-defense\bin\Debug\netcoreapp2.0\treehouse-defense.runtimeconfig.json
+C:\Users\Bravo\Source\Repos\treehouse-defense\bin\Debug\netcoreapp2.0\treehouse-defense.runtimeconfig.dev.json
+C:\Users\Bravo\Source\Repos\treehouse-defense\bin\Debug\netcoreapp2.0\treehouse-defense.dll
+C:\Users\Bravo\Source\Repos\treehouse-defense\bin\Debug\netcoreapp2.0\treehouse-defense.pdb
+C:\Users\Bravo\Source\Repos\treehouse-defense\obj\Debug\netcoreapp2.0\treehouse-defense.dll
+C:\Users\Bravo\Source\Repos\treehouse-defense\obj\Debug\netcoreapp2.0\treehouse-defense.pdb
