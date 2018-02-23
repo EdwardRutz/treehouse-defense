@@ -20,5 +20,20 @@
             Width = width;
             Height = height;
         }
+
+        //OnMap method takes a point as a parameter and returns true if it is on the map and false if it is not
+        //The OnMap method will return a boolean value, true or false.
+        //The method is public and can be called outside the map class
+        //The variable inBounds will hold the return value of the method
+
+        public bool OnMap(Point point)
+        {
+            bool inBounds = point.X >= 0 && point.X < Width && point.Y < Height;
+
+            return inBounds;
+        }
+
+
+
     }
 }
