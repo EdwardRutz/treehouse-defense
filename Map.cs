@@ -28,9 +28,9 @@
 
         public bool OnMap(Point point)
         {
-            bool inBounds = point.X >= 0 && point.X < Width && point.Y < Height;
-
-            return inBounds;
+            //return the experession immediatly instead of storing it in a variable
+            return point.X >= 0 && point.X < Width && 
+                   point.Y >=0 && point.Y < Height;
         }
 
 
