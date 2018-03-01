@@ -13,7 +13,7 @@ namespace TreehouseDefense
             Y = y;
         }
 
-        //Calculate how far points are from each other using the cartesian distance formula
+        //Calculate how far submitted points are from map points other using the cartesian distance formula
 
         public int DistanceTo(int x, int y)
         {
@@ -29,6 +29,10 @@ namespace TreehouseDefense
 
            return (int)Math.Sqrt(xDiffSquared + yDiffSquared);  //Returns a double so use (int) to truncate
            */
+        }
+        public int DistanceTo(Point point)  //Overloaded DistanceTo method
+        {
+            return DistanceTo(point.X, point.Y);
         }
     }
 }

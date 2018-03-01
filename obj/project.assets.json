@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bravo\\Source\\Repos\\treehouse-defense\\treehouse-defense.csproj",
+      "projectUniqueName": "C:\\Users\\Bravo\\repos\\treehouse-defense\\treehouse-defense.csproj",
       "projectName": "treehouse-defense",
-      "projectPath": "C:\\Users\\Bravo\\Source\\Repos\\treehouse-defense\\treehouse-defense.csproj",
+      "projectPath": "C:\\Users\\Bravo\\repos\\treehouse-defense\\treehouse-defense.csproj",
       "packagesPath": "C:\\Users\\Bravo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bravo\\Source\\Repos\\treehouse-defense\\obj\\",
+      "outputPath": "C:\\Users\\Bravo\\repos\\treehouse-defense\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
